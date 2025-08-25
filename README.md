@@ -40,6 +40,7 @@ From these projects, I gained several transferable skills:
 
   Applying interrupt-driven programming with GPIO buttons.
 
+
 These skills can be applied in embedded systems, IoT devices, robotics, and even larger-scale software engineering projects.
 
  - Making the Projects Maintainable, Readable, and Adaptable

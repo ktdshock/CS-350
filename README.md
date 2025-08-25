@@ -1,4 +1,4 @@
-CS-350 Portfolio Reflection
+**CS-350 Portfolio Reflection**
 
  - Summary of the Projects
 
@@ -6,7 +6,7 @@ The first artifact I selected is my Module 5: Milestone 3 project, where I progr
 
 The second artifact is my Final Project: Thermostat Lab, which expanded hardware control into a more complex embedded system. In this project, I built a smart thermostat prototype that used a temperature sensor, LEDs to indicate heating and cooling, buttons to adjust the set point and modes, an LCD to show real-time data, and UART to simulate sending information to a server. This solved the problem of creating a working embedded thermostat prototype while also exploring future cloud-connected architectures.
 
-** - What I Did Well**
+ - What I Did Well
 
 I did well in implementing state machines for both projects. The Morse code project showed I could design smooth state transitions for LEDs and timing, while the thermostat project highlighted my ability to manage multiple states (off, heat, cool) with button inputs. I also feel I did well in integrating different hardware peripherals, such as I2C sensors, GPIO interrupts, LCD displays, and UART communication.
 
